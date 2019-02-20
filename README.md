@@ -1,2 +1,3 @@
 # hello-world
-my first study
+
+This is my first study about GitHub.
